@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "faiz Ansari",
+      "mobile": 9765197170,
+      "email": "faiz@gmail.com",
+      "age": "2024-09-25",
+      "id": "2eae"
+    },
+    {
+      "id": "169b",
+      "name": "faiz ahmed",
+      "mobile": 9765197170,
+      "email": "faiz@gmail.com",
+      "age": "22/02/1996"
+    },
+    {
+      "id": "bdfc",
+      "name": "sohel tanveer",
+      "mobile": "444444",
+      "email": "2024-09-19",
+      "age": "22/02/1996"
+    }
+  ]
+}
